@@ -6,52 +6,11 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>http://brendanlayton.com/</loc>
-  <lastmod>2017-06-20T18:03:18+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>1.00</priority>
+  <loc>http://chargedgarage.com/</loc>
+  <lastmod>2018-11-06T02:57:42+00:00</lastmod>
 </url>
-<url>
-  <loc>http://brendanlayton.com/svg-animation/</loc>
-  <lastmod>2017-06-09T00:18:16+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://brendanlayton.com/search-book-covers/</loc>
-  <lastmod>2017-06-19T19:23:31+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://brendanlayton.com/html5-custom-video-player/</loc>
-  <lastmod>2017-06-09T00:25:11+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://brendanlayton.com/photo-gallery/</loc>
-  <lastmod>2017-06-09T14:46:25+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://brendanlayton.com/web-app-dashboard/</loc>
-  <lastmod>2017-06-09T00:26:39+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://brendanlayton.com/page-speed-optimization/</loc>
-  <lastmod>2017-06-20T15:08:59+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://brendanlayton.com/pdfs/brendan-layton-linkedin-profile.pdf</loc>
-  <lastmod>2017-06-20T18:03:18+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
+
+
 </urlset>
